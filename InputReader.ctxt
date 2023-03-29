@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InputReader
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Input.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=InputReader()
+comment2.params=
+comment2.target=java.util.HashSet\ getInput()
+numComments=3
